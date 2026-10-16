@@ -55,10 +55,17 @@ graph TD
 ```
 
 ```bash
-npm install
+npm ci
+npx playwright install chromium
 npm test
 npm run validate   # lint + test
 ```
+
+Public source CI runs the committed dependency graph, Stylelint, and all seven
+Playwright spec files against Desktop Chrome and Mobile Chrome on pull requests
+and pushes to `main`. The site is served directly from `src/`; there is no build
+step. To reproduce the Linux CI browser setup, use
+`npx playwright install --with-deps chromium` before `npm run validate`.
 
 ---
 
