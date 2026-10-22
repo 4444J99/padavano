@@ -1,8 +1,8 @@
 # PADAVANO // MOBILE PRIME PROTOCOL
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-white.svg?style=flat-square)](LICENSE)
-[![Protocol](https://img.shields.io/badge/Protocol-v2.0-white?style=flat-square&labelColor=black)](https://padavano.vercel.app)
-[![Deployment](https://img.shields.io/badge/Status-Live-black?style=flat-square&logo=vercel)](https://padavano.vercel.app)
+[![Protocol](https://img.shields.io/badge/Protocol-v2.0-white?style=flat-square&labelColor=black)](https://github.com/4444J99/padavano)
+[![Deployment](https://img.shields.io/badge/Status-Source%20Ready-black?style=flat-square&logo=vercel)](https://github.com/4444J99/padavano)
 
 > Systems architecture and product engineering. Established 2026.
 
